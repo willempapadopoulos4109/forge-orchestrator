@@ -1,0 +1,5 @@
+[package]
+name = "forge-orchestrator"
+version = "0.1.0"
+edition = "2021"
+description = "NXTG-Forge orchestrator: multi-AI task orchestration with file locking, knowledge capture and drift detection. Rust. Stage: internal."
